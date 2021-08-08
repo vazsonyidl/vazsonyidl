@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Vazsonyi</h1>
 <h3 align="center">A curious and passionate frontend developer in Angular</h3>
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Vue.js** along with - of course - **Angular**
 
 - 📝 I write articles on [https://dev.to/vazsonyidl](https://dev.to/vazsonyidl)
 
@@ -27,6 +27,7 @@
 <h4 align="left">Testing tools: </h4>
 <p align="left">
   <a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a>  <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a>  <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
+ and <i>Cypress</i>
 </p>
 <h4 align="left">DevOps tools: </h4>
 <p align="left">    
