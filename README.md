@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Vazsonyi</h1>
 <h3 align="center">A curious and passionate frontend developer in Angular</h3>
 
-- 🌱 I’m currently learning **Vue.js** along with - of course - **Angular**
+- 🌱 I’m currently learning different web development techniques like *React Native, serverless technologies* along with - of course - **Angular**
 
 - 📝 I write articles on [https://dev.to/vazsonyidl](https://dev.to/vazsonyidl)
 
